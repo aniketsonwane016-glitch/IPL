@@ -16,7 +16,7 @@ public class Test {
 //			s.getMITeamDetails();
 			
 			servise.printTeamDetails();
-					;
+			System.out.println("test github");		
 			
 //				
 //			Scanner sc = new Scanner (System.in);
