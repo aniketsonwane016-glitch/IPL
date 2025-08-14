@@ -15,8 +15,7 @@ public class Test {
 //			TeamRepository s= new TeamRepository();
 //			s.getMITeamDetails();
 			
-			servise.printTeamDetails();
-			System.out.println("test github");		
+			servise.selectOptions();
 			
 //				
 //			Scanner sc = new Scanner (System.in);
